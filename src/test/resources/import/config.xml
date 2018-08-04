@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<importFile>
+	<startRowNo>1</startRowNo>
+	<cell>
+		<number>0</number>
+		<key>index</key>
+		<cellType>Int</cellType>
+		<nullble>0</nullble>
+	</cell>
+	<cell>
+		<number>1</number>
+		<key>float</key>
+		<cellType>Float</cellType>
+		<nullble>1</nullble>
+	</cell>
+	<cell>
+		<number>2</number>
+		<key>string</key>
+		<cellType>String</cellType>
+		<nullble>1</nullble>
+	</cell>
+	<cell>
+		<number>3</number>
+		<key>date</key>
+		<cellType>Date</cellType>
+		<nullble>1</nullble>
+	</cell>
+	<cell>
+		<number>4</number>
+		<key>bigdecimal</key>
+		<cellType>BigDecimal</cellType>
+		<nullble>1</nullble>
+	</cell>
+	
+</importFile>
+
